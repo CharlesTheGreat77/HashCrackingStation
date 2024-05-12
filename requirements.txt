@@ -1,0 +1,7 @@
+SpeechRecognition
+browserforge
+bs4
+requests
+pytest-playwright
+playwright-stealth
+setuptools
